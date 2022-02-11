@@ -1,11 +1,10 @@
 # InstantText
 The instant text file writer!
 # How to use:
-First, download the zip for InstantText in releases.
-And extract the zip file, 
+First, download the EXE file for InstantText in release.
 and open InstantText.exe, start typing, 
 and when you're done, 
-press enter and kaboom! 
+press enter and kaboom!
 It's done!
 
 NOTE: Wherever folder location is InstantText, 
