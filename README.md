@@ -7,5 +7,4 @@ and when you're done,
 press enter and kaboom!
 It's done!
 
-NOTE: Wherever folder location is InstantText, 
-the text file will save in the same file location where InstantText is.
+NOTE: The text file will always save on the desktop.
